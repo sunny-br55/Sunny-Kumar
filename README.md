@@ -1,9 +1,9 @@
-<!-- Futuristic Neon Banner -->
+<!-- 🔥 Full Dark Neon Background Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/qBV7S4P/neon-purple-banner.gif" alt="Neon Hacker Banner" width="100%" />
+  <img src="https://i.ibb.co/1z9s3L7/dark-neon-bg.gif" width="100%" alt="Dark Neon Background"/>
 </p>
 
-<!-- Typing Animation -->
+<!-- ✨ Typing Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Sunny+Kumar+👨‍💻;B.Tech+CSE+(AI)+Student;Passionate+about+Coding+%26+AI;Always+Learning+New+Things" alt="Typing Animation" />
 </p>
@@ -87,5 +87,10 @@
 </p>
 
 ---
+
+<!-- 🔥 Bottom Dark Neon Background Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/1z9s3L7/dark-neon-bg.gif" width="100%" alt="Dark Neon Background"/>
+</p>
 
 ⚡ *"Code. Hack. Innovate. Repeat."*  
