@@ -11,13 +11,31 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 B.Tech CSE (AI) | 2nd Year Student  
-- 💡 Passionate about **AI, Web Development, and Problem Solving**  
-- 🛠️ Skilled in **C++ | Python | Java | C | OOPs | Web Development**  
-- 🌱 Currently exploring **Machine Learning & Full Stack Development**  
-- ⚡ Always eager to collaborate on **cool projects**  
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Coding Animation"/>
+</p>
+
+<div align="center">
+
+💡 **Who Am I?**  
+A passionate **B.Tech CSE (AI) student [2nd Year]** who loves to code, break things apart, and build them smarter 🚀  
+
+🔥 **What I Do**  
+- Craft solutions with **C++ | Python | Java | C | OOPs**  
+- Design and develop **modern Web Apps** 🌐  
+- Explore **Artificial Intelligence & Machine Learning** 🤖  
+
+⚡ **Current Focus**  
+- Mastering **AI & Full Stack Development**  
+- Building projects that combine **logic + creativity**  
+- Becoming a **better problem solver every single day**  
+
+🎯 **My Motto**  
+*"Code. Hack. Innovate. Repeat."*
+
+</div>
+
 
 ## 🚀 Tech Stack  
 
