@@ -1,96 +1,24 @@
-<!-- 🔥 Full Dark Neon Background Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/1z9s3L7/dark-neon-bg.gif" width="100%" alt="Dark Neon Background"/>
-</p>
+# 💫 About Me:
+💀 “Eat. Sleep. Code. Repeat.”<br><br>🚀 I’m Sunny Kumar, a Code Alchemist who loves<br>turning coffee ☕ into clean code and wild ideas into digital reality.<br><br>⚡ Fluent in the languages of the machine:<br>C++ | Python | Java | C | OOPs | Web Development<br><br>🔮 Currently exploring the realms of:<br>Artificial Intelligence 🤖 & Full-Stack Sorcery 🌐<br><br>🕶️ Think of me as:<br><br>a midnight coder 🌙,<br>a curious hacker 🕵️,<br>and a dreamer who writes in 0s and 1s.<br><br>🌌 Motto: “Don’t just use technology. Shape it.”
 
-<!-- ✨ Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Sunny+Kumar+👨‍💻;B.Tech+CSE+(AI)+Student;Passionate+about+Coding+%26+AI;Always+Learning+New+Things" alt="Typing Animation" />
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sunny-br02) 
 
-## 👨‍💻 About Me  
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sunny Kumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sunny Kumar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny Kumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sunny Kumar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<div align="center">
-
-💡 **Curious Mind | Problem Solver | AI Enthusiast**  
-
-🔮 I’m a **2nd Year B.Tech CSE (AI)** student who loves to  
-⚡ crack challenges, build futuristic tech, and explore deep into the **world of code**.  
-
-🛠️ My toolkit includes:  
-`C++` • `Python` • `Java` • `C` • `OOPs` • `Web Development`  
-
-🚀 Currently diving into:  
-**Machine Learning** 🤖 | **Full Stack Development** 🌐  
-
-🌌 Motto: *"Dream in code, live in innovation."*  
-
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Sunny Kumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,c,html,css,js,react,nodejs,express,mysql,git,github&theme=dark" />
-</p>
-
----
-
-## 💻 Hacker Vibes  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="480" alt="Hacker Animation"/>
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunny-br55&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A4DFF&icon_color=9A4DFF" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunny-br55&theme=radical&hide_border=true&background=0D1117&stroke=9A4DFF&ring=9A4DFF&fire=9A4DFF&currStreakLabel=9A4DFF" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-br55&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A4DFF" height="160px"/>
-</p>
-
----
-
-## 🟣 Active Contributions  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunny-br55&bg_color=0D1117&color=9A4DFF&line=9A4DFF&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/sunny-br55">
-    <img src="https://img.shields.io/badge/GitHub-171515.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- 🔥 Bottom Dark Neon Background Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/1z9s3L7/dark-neon-bg.gif" width="100%" alt="Dark Neon Background"/>
-</p>
-
-⚡ *"Code. Hack. Innovate. Repeat."*  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
