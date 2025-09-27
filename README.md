@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sunny+Kumar+👨‍💻;B.Tech+CSE+(AI)+Student;Passionate+about+Coding+%26+AI;Always+Learning+New+Things" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Sunny+Kumar+👨‍💻;B.Tech+CSE+(AI)+Student;Passionate+about+Coding+%26+AI;Always+Learning+New+Things" alt="Typing Animation" />
 </p>
 
 ---
@@ -13,29 +13,27 @@
 ## 👨‍💻 About Me  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
 </p>
 
 <div align="center">
 
-💡 **Who Am I?**  
-A passionate **B.Tech CSE (AI) student [2nd Year]** who loves to code, break things apart, and build them smarter 🚀  
+💡 **Curious Mind | Problem Solver | AI Enthusiast**  
 
-🔥 **What I Do**  
-- Craft solutions with **C++ | Python | Java | C | OOPs**  
-- Design and develop **modern Web Apps** 🌐  
-- Explore **Artificial Intelligence & Machine Learning** 🤖  
+🔮 I’m a **2nd Year B.Tech CSE (AI)** student who loves to  
+⚡ crack challenges, build futuristic tech, and explore deep into the **world of code**.  
 
-⚡ **Current Focus**  
-- Mastering **AI & Full Stack Development**  
-- Building projects that combine **logic + creativity**  
-- Becoming a **better problem solver every single day**  
+🛠️ My toolkit includes:  
+`C++` • `Python` • `Java` • `C` • `OOPs` • `Web Development`  
 
-🎯 **My Motto**  
-*"Code. Hack. Innovate. Repeat."*
+🚀 Currently diving into:  
+**Machine Learning** 🤖 | **Full Stack Development** 🌐  
+
+🌌 Motto: *"Dream in code, live in innovation."*  
 
 </div>
 
+---
 
 ## 🚀 Tech Stack  
 
