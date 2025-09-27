@@ -23,7 +23,7 @@
 
 🕶️ Think of me as:  
 ✨ a midnight coder 🌙  
-✨ a curious hacker 🕵️  
+✨ an AI tinkerer 🔮  
 ✨ a dreamer who writes in `0`s and `1`s  
 
 🌌 **Motto:** *“Don’t just use technology. Shape it.”*  
@@ -34,9 +34,6 @@
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=tnnUFgHrPmR0&format=png&color=9A4DFF" width="55" alt="Gmail"/>
-  </a>
   <a href="https://linkedin.com/in/sunny-br02" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="55" alt="LinkedIn"/>
   </a>
@@ -48,9 +45,12 @@
 ---
 
 # 💻 Tech Stack:
+
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="280" align="right" alt="Tech Animation"/>
+<table>
+<tr>
+<td width="60%" align="center">
 
 <!-- Badges -->
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>  
@@ -62,7 +62,18 @@
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>  
 
+</td>
+<td width="40%" align="center">
+
+<!-- Animated Visual -->
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="280" alt="Tech Animation"/>
+
+</td>
+</tr>
+</table>
+
 </div>
+
 
 ---
 
