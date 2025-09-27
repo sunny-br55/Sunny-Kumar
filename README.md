@@ -1,12 +1,11 @@
-# Sunny-Kumar
 <!-- Futuristic Neon Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/Z8H4q0C/neon-github-banner.gif" alt="Neon Banner" width="100%" />
+  <img src="https://i.ibb.co/qBV7S4P/neon-purple-banner.gif" alt="Neon Hacker Banner" width="100%" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Sunny+Kumar+👋;B.Tech+CSE+(AI)+Student;Passionate+about+Coding+%26+AI;Always+Learning+New+Things" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sunny+Kumar+👨‍💻;B.Tech+CSE+(AI)+Student;Passionate+about+Coding+%26+AI;Always+Learning+New+Things" alt="Typing Animation" />
 </p>
 
 ---
@@ -23,7 +22,15 @@
 ## 🚀 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,c,html,css,js,react,nodejs,express,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,c,html,css,js,react,nodejs,express,mysql,git,github&theme=dark" />
+</p>
+
+---
+
+## 💻 Hacker Vibes  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="480" alt="Hacker Animation"/>
 </p>
 
 ---
@@ -31,19 +38,20 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunny-br55&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunny-br55&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sunny-br55&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A4DFF&icon_color=9A4DFF" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunny-br55&theme=radical&hide_border=true&background=0D1117&stroke=9A4DFF&ring=9A4DFF&fire=9A4DFF&currStreakLabel=9A4DFF" height="160px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-br55&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-br55&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9A4DFF" height="160px"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph  
+## 🟣 Active Contributions  
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunny-br55&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunny-br55&bg_color=0D1117&color=9A4DFF&line=9A4DFF&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
@@ -64,4 +72,4 @@
 
 ---
 
-⚡ *"Code. Learn. Build. Repeat."*  
+⚡ *"Code. Hack. Innovate. Repeat."*  
