@@ -4,13 +4,13 @@
 
 <!-- ✨ Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Sunny+Kumar+👨‍💻;B.Tech+CSE+(AI)+Student;Passionate+about+Coding+%26+AI;Eat+Sleep+Code+Repeat" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Sunny+Kumar;B.Tech+CSE+(AI)+Student;Passionate+about+Coding+%26+AI;" alt="Typing Animation" />
 </p>
 
-# 💫 About Me:
+# 👨‍💻 About Me:
 <div align="center">
 
-💀 **“Eat. Sleep. Code. Repeat.”**  
+  
 
 🚀 I’m **Sunny Kumar**, a **Code Alchemist** who loves  
 ☕ turning coffee into clean code and wild ideas into digital reality.  
@@ -37,7 +37,7 @@
   <a href="https://linkedin.com/in/sunny-br02" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="55" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/your-username" target="_blank">
+  <a href="https://www.instagram.com/sunny_gupta_008?igsh=MTVrOWx6bm45M2Y3Ng==" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="55" alt="Instagram"/>
   </a>
 </p>
@@ -66,7 +66,7 @@
 <td width="40%" align="center">
 
 <!-- Animated Visual -->
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="280" alt="Tech Animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="280" alt="Tech Animation"/>
 
 </td>
 </tr>
@@ -90,9 +90,7 @@
 ---
 
 # 🔥 Profile Views & Activity
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sunny-br55&icon=5&color=9A4DFF" alt="Profile Views"/>
-</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
